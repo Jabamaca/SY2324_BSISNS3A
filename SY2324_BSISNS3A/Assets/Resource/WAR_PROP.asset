@@ -12,3 +12,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b49c2b4c3b3ff540b13300046efa2f0, type: 3}
   m_Name: WAR_PROP
   m_EditorClassIdentifier: 
+  MovementSpeed: 10
